@@ -76,9 +76,9 @@ I'm a **Mechatronics Engineer** turned **Data-Driven Developer** with a passion 
 ---
 
 ### 📈 polyanalytics.xyz — Prediction Market Research
-> Published research: *Impact of Elon Musk tweets on prediction market outcomes*
+> Published research: *Impact of Elon Musk-Donald Trump tweets on prediction market outcomes*
 
-- On-chain data extraction and behavioural analysis
+- Polymarket data extraction and behavioural analysis
 - Liquidity cleanup dashboard for converted positions
 
 ---
