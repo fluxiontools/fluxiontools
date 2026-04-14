@@ -83,6 +83,58 @@ I'm a **Mechatronics Engineer** turned **Data-Driven Developer** with a passion 
 
 ---
 
+---
+ 
+### 🚗 Ycar — Mobile Car Wash Marketplace
+> Two-sided marketplace connecting car owners with mobile washers in Turkey
+ 
+- 📱 Expo + React Native + TypeScript frontend
+- ⚙️ Bun + Hono backend, PostgreSQL + Prisma ORM
+- 🔐 Passwordless auth (Email OTP via Better Auth + Resend)
+- 🗺️ Real-time map, GPS location, Expo push notifications
+- ☁️ Cloudflare R2 storage, Railway deploy, Docker
+ 
+<table>
+  <tr>
+    <td align="center"><b>Giriş</b></td>
+    <td align="center"><b>Doğrulama Kodu</b></td>
+    <td align="center"><b>Keşfet (Müşteri)</b></td>
+    <td align="center"><b>Yeni İlan</b></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots-ycar/01-login.png" width="180"/></td>
+    <td><img src="screenshots-ycar/02-otp.png" width="180"/></td>
+    <td><img src="screenshots-ycar/03-kesfet-musteri.png" width="180"/></td>
+    <td><img src="screenshots-ycar/04-yeni-ilan.png" width="180"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>İlan Oluşturuldu</b></td>
+    <td align="center"><b>İlanlarım</b></td>
+    <td align="center"><b>Mağaza</b></td>
+    <td align="center"><b>Profil (Müşteri)</b></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots-ycar/05-ilan-olusturuldu.png" width="180"/></td>
+    <td><img src="screenshots-ycar/06-ilanlarim.png" width="180"/></td>
+    <td><img src="screenshots-ycar/07-magaza.png" width="180"/></td>
+    <td><img src="screenshots-ycar/08-profil-musteri.png" width="180"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Profil (Yıkamacı)</b></td>
+    <td align="center"><b>Keşfet (Yıkamacı)</b></td>
+    <td align="center"><b>İlan Detayı & Teklif</b></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots-ycar/09-profil-yikamaci.png" width="180"/></td>
+    <td><img src="screenshots-ycar/10-kesfet-yikamaci.png" width="180"/></td>
+    <td><img src="screenshots-ycar/11-ilan-detay.png" width="180"/></td>
+    <td></td>
+  </tr>
+</table>
+ 
+---
+
 ### 🦾 AI-Powered Robotic Arm (TEKNOFEST 2020 Finalist)
 > 6-DOF robotic arm to assist individuals with Parkinson's disease or limb loss
 
