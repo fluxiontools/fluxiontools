@@ -74,15 +74,41 @@ I'm a **Mechatronics Engineer** turned **Data-Driven Developer** with a passion 
 - REST API-based services with React UI
 
 ---
+ 
+### 📈 PolyAnalytics — Prediction Market Analytics Platform
+> Data-driven tooling for Polymarket traders — [polyanalytics.xyz](https://polyanalytics.xyz)
+ 
+- Real-time tweet tracking, hourly heatmaps, and historical pattern analysis for Elon Musk prediction markets
+- Live trade flow monitoring, active market feeds, and a smart calculator for hit-rate targeting
+- Solves the core gap in prediction markets: the absence of analytical tooling
+- 
 
-### 📈 polyanalytics.xyz — Prediction Market Research
-> Published research: *Impact of Elon Musk-Donald Trump tweets on prediction market outcomes*
-
-- Polymarket data extraction and behavioural analysis
-- Liquidity cleanup dashboard for converted positions
-
----
-
+<table>
+  <tr>
+    <td align="center"><b>Active Prediction Market</b></td>
+    <td align="center"><b>Detailed Market</b></td>
+    <td align="center"><b>Heatmap</b></td>
+    <td align="center"><b>Historical Tweet Predictor</b></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots-polyanalytics/active-prediction-market.jpg" width="180"/></td>
+    <td><img src="screenshots-polyanalytics/detailed-market.png" width="180"/></td>
+    <td><img src="screenshots-polyanalytics/heatmap.jpg" width="180"/></td>
+    <td><img src="screenshots-polyanalytics/historical-tweet-predictor.png" width="180"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Hourly Distribution</b></td>
+    <td align="center"><b>Live Trade Flow</b></td>
+    <td align="center"><b>Tweet Analysis Calculator</b></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots-polyanalytics/hourly-distribution.jpg" width="180"/></td>
+    <td><img src="screenshots-polyanalytics/live-trade-flow.jpg" width="180"/></td>
+    <td><img src="screenshots-polyanalytics/tweet-analysis-calculator.png" width="180"/></td>
+    <td></td>
+  </tr>
+</table>
 ---
  
 ### 🚗 Ycar — Mobile Car Wash Marketplace
