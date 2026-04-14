@@ -92,7 +92,7 @@ I'm a **Mechatronics Engineer** turned **Data-Driven Developer** with a passion 
 - ⚙️ Bun + Hono backend, PostgreSQL + Prisma ORM
 - 🔐 Passwordless auth (Email OTP via Better Auth + Resend)
 - 🗺️ Real-time map, GPS location, Expo push notifications
-- ☁️ Cloudflare R2 storage, Railway deploy, Docker
+- ☁️ Cloudflare R2 storage, Railway deploy
  
 <table>
   <tr>
